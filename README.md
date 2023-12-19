@@ -4,4 +4,5 @@
 - npm install
 - npm run start
 ## Output Screen shots:
-![image](https://github.com/Deepan-kishore/plotly-graph_haix/assets/17809052/be32f7b7-c914-4902-b5d0-04e9eaec3d14)
+![image](https://github.com/Deepan-kishore/plotly-graph_haix/assets/17809052/2ba15e16-984e-407f-a1cd-59a40b593d8f)
+
